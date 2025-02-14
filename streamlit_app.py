@@ -20,7 +20,7 @@ def call_api():
     params = {
         "engine": "google_trends_trending_now",
         "geo": "FR",
-        "api_key": "68e33d9f7e5d1281bdbe9fa9a69c71316f70c001effa79f7d54c00e06fe723fb",
+        "api_key": "", # Remplacer par votre cle
         "hours": "168"
     }
  
